@@ -35,11 +35,11 @@ graph TD
 
 ## Available Clients
 
-- **Discord** (`@eliza/client-discord`) - Full Discord bot integration
-- **Twitter** (`@eliza/client-twitter`) - Twitter bot and interaction handling
-- **Telegram** (`@eliza/client-telegram`) - Telegram bot integration
-- **Direct** (`@eliza/client-direct`) - Direct API interface for custom integrations
-- **Auto** (`@eliza/client-auto`) - Automated trading and interaction client
+- **Discord** (`@elizaos/client-discord`) - Full Discord bot integration
+- **Twitter** (`@elizaos/client-twitter`) - Twitter bot and interaction handling
+- **Telegram** (`@elizaos/client-telegram`) - Telegram bot integration
+- **Direct** (`@elizaos/client-direct`) - Direct API interface for custom integrations
+- **Auto** (`@elizaos/client-auto`) - Automated trading and interaction client
 
 ---
 
